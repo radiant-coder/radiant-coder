@@ -7,6 +7,9 @@
 Hello Agent, Welcome to Valorant! Follow my lead to become a radiant coder and stop your clones from stealing our precious radianite. Start Here!
   
 </h2>
+
+<sup>Note: Several artwork assets, names and places mentioned on this github account are property of Riot Games's Valorant.<sup>
+  
 <!---
 radiant-coder/radiant-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
