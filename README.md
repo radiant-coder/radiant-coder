@@ -4,7 +4,7 @@
 
 <h2 align="center">
   
-Hello Agent, Welcome to Valorant! Follow my lead to become a radiant coder and stop your clones from stealing our precious radianite. Start Here ▶
+Hello Agent, Welcome to Valorant! Follow my lead to become a radiant coder and stop your clones from stealing our precious radianite. Start Here!
   
 </h2>
 
